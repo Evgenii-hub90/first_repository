@@ -35,4 +35,4 @@
 *.sln
 *.vcxproj
 *.vcxproj.filters
-*.vcxproj.user
+*.vcxproj.user.vs/
