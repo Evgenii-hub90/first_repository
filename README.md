@@ -1,2 +1,1 @@
-# First_repository
-for projects on c++
+# C++ training
