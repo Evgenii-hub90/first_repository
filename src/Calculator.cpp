@@ -13,7 +13,6 @@ double exponentiation(double a, double b);
 double logarithm(double a, double b);
 double square_root(double a);
 double exponent(double a);
-///////////////////////////////////////////////////////////////////////////////////
 
 double calculator() {
     system("chcp 1251 > nul");
@@ -169,7 +168,6 @@ double exponent(double a) {
     return exp(a);
 }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////
 int main() {
     calculator();
     return 0;
